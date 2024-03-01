@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="images/BotsApp_Logo.png" height="400px"/>
+  <img src="images/arielphoto.png" height="400px"/>
 </p>
 
 
