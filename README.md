@@ -2,7 +2,7 @@
   <img src="images/arielphoto.jpg" height="400px"/>
 </p>
 
-# 💠[Sirat](https://docs.google.com/presentation/u/0/d/1OlOLsCPbAcJ-1CjrKsqFMkhO3QpMRK_uKDd5ML9wKCU/edit)💠
+# 💠[Sirāt](https://docs.google.com/presentation/u/0/d/1OlOLsCPbAcJ-1CjrKsqFMkhO3QpMRK_uKDd5ML9wKCU/edit)💠 (Arabic: صراط) Si·​rat. sə̇ˈrät. plural -s: a path, a way
 
 > Intelligent crowd management & navigation for Umrah pilgrims
 ---
